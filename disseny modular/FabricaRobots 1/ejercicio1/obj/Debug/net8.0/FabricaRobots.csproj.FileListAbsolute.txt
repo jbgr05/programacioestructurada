@@ -1,0 +1,14 @@
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.AssemblyInfoInputs.cache
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.AssemblyInfo.cs
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.csproj.CoreCompileInputs.cache
+C:\Users\guasc\Documents\DAW\FabricaRobots\bin\Debug\net8.0\FabricaRobots.exe
+C:\Users\guasc\Documents\DAW\FabricaRobots\bin\Debug\net8.0\FabricaRobots.deps.json
+C:\Users\guasc\Documents\DAW\FabricaRobots\bin\Debug\net8.0\FabricaRobots.runtimeconfig.json
+C:\Users\guasc\Documents\DAW\FabricaRobots\bin\Debug\net8.0\FabricaRobots.dll
+C:\Users\guasc\Documents\DAW\FabricaRobots\bin\Debug\net8.0\FabricaRobots.pdb
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.dll
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\refint\FabricaRobots.dll
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.pdb
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\FabricaRobots.genruntimeconfig.cache
+C:\Users\guasc\Documents\DAW\FabricaRobots\obj\Debug\net8.0\ref\FabricaRobots.dll
